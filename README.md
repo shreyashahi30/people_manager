@@ -64,4 +64,5 @@ ng test(This command will start the Karma test runner and execute the tests defi
 
 ## Deployment
 **To build the project for production, run:**
+
 ng build --prod (This command will create a dist/ directory with the production build of the application. You can then deploy the contents of this directory to your web server.)
