@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Sharma",
+    "age": 29,
+    "email": "rahul.sharma@example.com",
+    "photo": "assets/images/person-placeholder.png"
+  },
+  {
+    "id": 2,
+    "name": "Anjali Verma",
+    "age": 24,
+    "email": "anjali.verma@example.com",
+    "photo": "assets/images/person-placeholder.png"
+  },
+  {
+    "id": 3,
+    "name": "Amit Kumar",
+    "age": 31,
+    "email": "amit.kumar@example.com",
+    "photo": "assets/images/person-placeholder.png"
+  },
+  {
+    "id": 4,
+    "name": "Priya Singh",
+    "age": 27,
+    "email": "priya.singh@example.com",
+    "photo": "assets/images/person-placeholder.png"
+  },
+  {
+    "id": 5,
+    "name": "Vikram Gupta",
+    "age": 34,
+    "email": "vikram.gupta@example.com",
+    "photo": "assets/images/person-placeholder.png"
+  },
+  {
+    "id": 6,
+    "name": "Neha Joshi",
+    "age": 22,
+    "email": "neha.joshi@example.com",
+    "photo": "assets/images/person-placeholder.png"
+  },
+  {
+    "id": 7,
+    "name": "Suresh Nair",
+    "age": 28,
+    "email": "suresh.nair@example.com",
+    "photo": "assets/images/person-placeholder.png"
+  },
+  {
+    "id": 8,
+    "name": "Deepika Mehra",
+    "age": 26,
+    "email": "deepika.mehra@example.com",
+    "photo": "assets/images/person-placeholder.png"
+  },
+  {
+    "id": 9,
+    "name": "Rajesh Kapoor",
+    "age": 32,
+    "email": "rajesh.kapoor@example.com",
+    "photo": "assets/images/person-placeholder.png"
+  },
+  {
+    "id": 10,
+    "name": "Sonal Desai",
+    "age": 30,
+    "email": "sonal.desai@example.com",
+    "photo": "assets/images/person-placeholder.png"
+  },
+  {
+    "id": 11,
+    "name": "Karan Patel",
+    "age": 25,
+    "email": "karan.patel@example.com",
+    "photo": "assets/images/person-placeholder.png"
+  },
+  {
+    "id": 12,
+    "name": "Pooja Chauhan",
+    "age": 27,
+    "email": "pooja.chauhan@example.com",
+    "photo": "assets/images/person-placeholder.png"
+  },
+  {
+    "id": 13,
+    "name": "Ravi Iyer",
+    "age": 33,
+    "email": "ravi.iyer@example.com",
+    "photo": "assets/images/person-placeholder.png"
+  },
+  {
+    "id": 14,
+    "name": "Meena Reddy",
+    "age": 24,
+    "email": "meena.reddy@example.com",
+    "photo": "assets/images/person-placeholder.png"
+  },
+  {
+    "id": 15,
+    "name": "Ajay Pandey",
+    "age": 29,
+    "email": "ajay.pandey@example.com",
+    "photo": "assets/images/person-placeholder.png"
+  }
+]
