@@ -57,38 +57,6 @@ ng serve
 - Edit existing people by clicking the "Edit" button.
 - Delete a person by clicking the "Delete" button and confirming the action
 
-Project Structure
-people-management/
-├── angular.json
-├── package.json
-├── tsconfig.json
-├── src/
-│   ├── app/
-│   │   ├── core/
-│   │   │   ├── guard/
-│   │   │   │   ├── auth.guard.ts
-│   │   │   ├── interceptors/
-│   │   │   │   ├── token.interceptor.ts
-│   │   ├── people/
-│   │   │   ├── people.component.ts
-│   │   │   ├── people.component.html
-│   │   │   ├── people.component.css
-│   │   ├── modal/
-│   │   │   ├── modal.component.ts
-│   │   │   ├── modal.component.html
-│   │   │   ├── modal.component.css
-│   │   ├── app-routing.module.ts
-│   │   ├── app.component.ts
-│   │   ├── app.component.html
-│   │   ├── app.component.css
-│   │   ├── app.module.ts
-│   ├── assets/
-│   ├── environments/
-│   ├── index.html
-│   ├── main.ts
-│   ├── polyfills.ts
-│   ├── styles.css
-
 Running Tests
 To run the tests for the project, use the following command:
 ng test(This command will start the Karma test runner and execute the tests defined in the project.)
