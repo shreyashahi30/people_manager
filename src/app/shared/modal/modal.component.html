@@ -1,1 +1,15 @@
+<div class="modal" [class.show]="showModal" (click)="closeModal()">
+  <div class="modal-content" (click)="$event.stopPropagation()"> <!-- Stops click event propagation -->
+    <div class="modal-header">
+      <h2>{{ title }}</h2>
+      <button class="close-btn" (click)="closeModal()">&times;</button>
+    </div>
+    <div class="modal-body">
+      <ng-content></ng-content> <!-- Allows custom content inside the modal -->
+    </div>
+    <div class="modal-footer">
+      <button class="close-btn" (click)="closeModal()">Close</button>
+    </div>
+  </div>
+</div>
 
