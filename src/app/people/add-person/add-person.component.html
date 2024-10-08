@@ -1,1 +1,29 @@
+<div class="container">
+  <h2>Add New Person</h2>
+  <form (ngSubmit)="addPerson()">
+    <div class="form-group">
+      <label for="name">Name:</label>
+      <input
+        type="text"
+        id="name"
+        [(ngModel)]="name"
+        name="name"
+        class="form-control"
+        required
+      />
+    </div>
+    <div class="form-group">
+      <label for="age">Age:</label>
+      <input
+        type="number"
+        id="age"
+        [(ngModel)]="age"
+        name="age"
+        class="form-control"
+        required
+      />
+    </div>
+    <button type="submit" class="btn btn-primary">Add Person</button>
+  </form>
+</div>
 
