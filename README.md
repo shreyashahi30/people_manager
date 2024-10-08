@@ -59,6 +59,7 @@ ng serve
 
 ## Running Tests
 **To run the tests for the project, use the following command:**
+
 ng test(This command will start the Karma test runner and execute the tests defined in the project.)
 
 ## Deployment
