@@ -1,1 +1,23 @@
+/* Global styles for the application */
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+app-root {
+  display: block;
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.router-outlet {
+  margin-top: 20px;
+}
 
